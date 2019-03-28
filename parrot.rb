@@ -2,9 +2,9 @@
 # returns the phrase
 
 #parrot
-def parrot(phrase="Squawk")
-  puts "#{phrase}!"
+def parrot(phrase="Squawk!")
+  puts "#{phrase}"
   phrase
 end
 
-parrot ("Pretty Bird")
+parrot ("Pretty Bird!")
